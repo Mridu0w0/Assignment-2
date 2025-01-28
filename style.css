@@ -7,7 +7,7 @@
 
 .container{
   background:
-  url("/assets/bg.png"), linear-gradient(180deg ,#FFFFFF,#FFF4DC )
+  url("./assets/bg.png"), linear-gradient(180deg ,#FFFFFF,#FFF4DC )
   ;
   /* border: 2PX SOLID; */
 
